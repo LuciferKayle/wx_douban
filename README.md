@@ -9,11 +9,11 @@
 
 ### 数据接口:
 
-- https://api.getweapp.com/vendor/douban/subject
-- https://api.getweapp.com/vendor/douban/in_theaters
-- https://api.getweapp.com/vendor/douban/search
-- https://api.getweapp.com/vendor/douban/top250
-- https://api.getweapp.com/vendor/douban/coming_soon
+- https://api.douban.com/v2/movie/subject/
+- https://api.douban.com/v2/movie/in_theaters
+- https://api.douban.com/v2/movie/search
+- https://api.douban.com/v2/movie/top250
+- https://api.douban.com/v2/movie/coming_soon
 
 ### 目录结构：
 
